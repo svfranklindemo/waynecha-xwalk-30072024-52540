@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json"
+    "/content/waynecha/waynecha-2024-7-30-14-25-9/:/",
+    "/content/waynecha/waynecha-2024-7-30-14-25-9/metadata.json:/metadata.json",
+    "/content/waynecha/waynecha-2024-7-30-14-25-9/redirects.json:/redirects.json"
   ]
 }
